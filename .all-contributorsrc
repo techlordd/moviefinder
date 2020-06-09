@@ -1,0 +1,64 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kodjunkie",
+      "name": "Lawrence Onah",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21959017?v=4",
+      "profile": "https://github.com/kodjunkie",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "NengakDakup",
+      "name": "Nengak Dakup",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/34240577?v=4",
+      "profile": "http://nenosoft-tech.rf.gd",
+      "contributions": [
+        "code",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "silvareal",
+      "name": "sylvernus akubo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26682159?v=4",
+      "profile": "https://tacafrica.org",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "SLKhadeeja",
+      "name": "SLKhadeeja",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43624344?v=4",
+      "profile": "https://github.com/SLKhadeeja",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Amenacliff",
+      "name": "Amena Cliff",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47929647?v=4",
+      "profile": "https://github.com/Amenacliff",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "gophie-web",
+  "projectOwner": "Go-phie",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
