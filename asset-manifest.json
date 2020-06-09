@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/moviefinder/static/css/main.f48531ed.chunk.css",
-    "main.js": "/moviefinder/static/js/main.893279c3.chunk.js",
-    "main.js.map": "/moviefinder/static/js/main.893279c3.chunk.js.map",
-    "runtime-main.js": "/moviefinder/static/js/runtime-main.2f020391.js",
-    "runtime-main.js.map": "/moviefinder/static/js/runtime-main.2f020391.js.map",
-    "static/css/2.28cce3e6.chunk.css": "/moviefinder/static/css/2.28cce3e6.chunk.css",
-    "static/js/2.10993d13.chunk.js": "/moviefinder/static/js/2.10993d13.chunk.js",
-    "static/js/2.10993d13.chunk.js.map": "/moviefinder/static/js/2.10993d13.chunk.js.map",
-    "index.html": "/moviefinder/index.html",
-    "precache-manifest.e8b850072fa87cf478a07c084dcff6df.js": "/moviefinder/precache-manifest.e8b850072fa87cf478a07c084dcff6df.js",
-    "service-worker.js": "/moviefinder/service-worker.js",
-    "static/css/2.28cce3e6.chunk.css.map": "/moviefinder/static/css/2.28cce3e6.chunk.css.map",
-    "static/css/main.f48531ed.chunk.css.map": "/moviefinder/static/css/main.f48531ed.chunk.css.map",
-    "static/js/2.10993d13.chunk.js.LICENSE.txt": "/moviefinder/static/js/2.10993d13.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/moviefinder/static/media/revicons.2feb69cc.eot"
+    "main.css": "/static/css/main.f48531ed.chunk.css",
+    "main.js": "/static/js/main.2bd65046.chunk.js",
+    "main.js.map": "/static/js/main.2bd65046.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.353f42f1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.353f42f1.js.map",
+    "static/css/2.b5bb3412.chunk.css": "/static/css/2.b5bb3412.chunk.css",
+    "static/js/2.43b7002c.chunk.js": "/static/js/2.43b7002c.chunk.js",
+    "static/js/2.43b7002c.chunk.js.map": "/static/js/2.43b7002c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fe279845eceac58a8f7b669b8247059b.js": "/precache-manifest.fe279845eceac58a8f7b669b8247059b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b5bb3412.chunk.css.map": "/static/css/2.b5bb3412.chunk.css.map",
+    "static/css/main.f48531ed.chunk.css.map": "/static/css/main.f48531ed.chunk.css.map",
+    "static/js/2.43b7002c.chunk.js.LICENSE.txt": "/static/js/2.43b7002c.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f020391.js",
-    "static/css/2.28cce3e6.chunk.css",
-    "static/js/2.10993d13.chunk.js",
+    "static/js/runtime-main.353f42f1.js",
+    "static/css/2.b5bb3412.chunk.css",
+    "static/js/2.43b7002c.chunk.js",
     "static/css/main.f48531ed.chunk.css",
-    "static/js/main.893279c3.chunk.js"
+    "static/js/main.2bd65046.chunk.js"
   ]
 }
